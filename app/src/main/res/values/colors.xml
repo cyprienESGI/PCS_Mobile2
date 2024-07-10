@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="urbankey_green_light">#E6675E</color>
+    <color name="urbankey_green">#0A3A2A</color>
+    <color name="urbankey_gray">#919191</color>
+    <color name="urbankey_gray_light">#F44336</color>
+    <color name="urbankey_green_very_light">#830F07</color>
+    <color name="yellow">#FFC700</color>
+    <color name="red">#FF0000</color>
+</resources>

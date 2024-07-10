@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+    <item
+        android:id="@+id/nav_home"
+        android:icon="@drawable/baseline_home_24"
+        android:title="@string/acceuil" />
+
+    <item
+        android:id="@+id/nav_profil"
+        android:icon="@drawable/baseline_face_24"
+        android:title="@string/profile" />
+
+    <item android:title="@string/parametre">
+        <menu>
+            <item
+                android:id="@+id/nav_login"
+                android:icon="@drawable/baseline_output_24"
+                android:title="@string/deconection"/>
+
+        </menu>
+    </item>
+</menu>
